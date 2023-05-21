@@ -8,9 +8,9 @@ export default function PaginaInicial() {
         <>
             <Cabecalho />
             <main>
-                <section>
+                <section className={styles.principal}>
                     <Menu />
-                    <div>
+                    <div className={styles.principal__imagem}>
                         <h1>A galeria mais completa do espaço</h1>
                         <img src={banner} alt="A imagem da terra vista do espaço" />
                     </div>
