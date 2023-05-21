@@ -1,5 +1,7 @@
+import banner from './banner.png'
 import Cabecalho from "../../componentes/Cabecalho";
 import Menu from "../../componentes/Menu";
+import styles from './PaginaInicial.module.scss';
 
 export default function PaginaInicial() {
     return (
@@ -10,7 +12,7 @@ export default function PaginaInicial() {
                     <Menu />
                     <div>
                         <h1>A galeria mais completa do espaço</h1>
-                        <img src={} alt="A imagem da terra vista do espaço" />
+                        <img src={banner} alt="A imagem da terra vista do espaço" />
                     </div>
                 </section>
             </main>
