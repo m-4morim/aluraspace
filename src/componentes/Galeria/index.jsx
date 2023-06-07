@@ -1,7 +1,10 @@
 import React from 'react'
 
-export default function index() {
+export default function Galeria() {
   return (
-    <div>index</div>
+    <section>
+      <h2>Navegue pela galeria</h2>
+      <ul></ul>
+    </section>
   )
 }

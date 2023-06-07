@@ -3,6 +3,7 @@ import Cabecalho from "../../componentes/Cabecalho";
 import Menu from "../../componentes/Menu";
 import Rodape from "../../componentes/Rodape";
 import styles from './PaginaInicial.module.scss';
+import Galeria from '../../componentes/Galeria';
 
 export default function PaginaInicial() {
     return (
@@ -17,6 +18,9 @@ export default function PaginaInicial() {
                     </div>
                 </section>
             </main>
+            <div>
+                <Galeria />
+            </div>
             <Rodape />
         </>
     );
