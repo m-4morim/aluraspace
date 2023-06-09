@@ -1,8 +1,8 @@
 import banner from './banner.png'
 import Cabecalho from "../../componentes/Cabecalho";
 import Menu from "../../componentes/Menu";
-import Rodape from "../../componentes/Rodape";
 import styles from './PaginaInicial.module.scss';
+import Rodape from "../../componentes/Rodape";
 import Galeria from '../../componentes/Galeria';
 
 export default function PaginaInicial() {
