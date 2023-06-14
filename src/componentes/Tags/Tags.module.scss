@@ -17,5 +17,12 @@
         padding: 0;
         display: flex;
         justify-content: space-between;
+
+    li {
+        background-color: $tag-color;
+        padding: 6px 10px;
+        border-radius: 8px;
+        cursor: pointer;
+        }
     }
 }
