@@ -32,4 +32,13 @@
       transform: scale(1.025);
       transition: 0.18s;
     }
+
+    div {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      padding: 0 1rem;
+      box-sizing: border-box;
+      width: 100%;
+    }
 }
