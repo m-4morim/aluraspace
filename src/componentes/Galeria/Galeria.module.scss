@@ -47,5 +47,12 @@
         margin-top: 0.5rem;
         color: $cinza-claro;
       }
+
+      span {
+        width: 20%;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+      }
     }
 }
