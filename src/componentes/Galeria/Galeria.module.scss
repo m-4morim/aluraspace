@@ -64,4 +64,12 @@
       height: 75%;
       width: 100%;
     }
+
+    &__descricao {
+      margin: 0;
+      padding: 0 16px;
+      font-size: 1.25rem;
+      color: $cor-do-texto;
+      font-family: $fonte-bold;
+    }
 }
