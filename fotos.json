@@ -12,3 +12,10 @@
     "id": "2",
     "tag": "Estrelas"
   },
+  {
+    "titulo": "Nome da Foto",
+    "creditos": "Alura Space",
+    "imagem": "/assets/imagens/galeria/foto-3.png",
+    "id": "3",
+    "tag": "Lua"
+},
