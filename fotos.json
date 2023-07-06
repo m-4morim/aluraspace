@@ -26,3 +26,10 @@
   "id": "4",
   "tag": "Galáxias"
   },
+{
+    "titulo": "Nome da Foto",
+    "creditos": "Alura Space",
+    "imagem": "/assets/imagens/galeria/foto-5.png",
+    "id": "5",
+    "tag": "Estrelas"
+  },
