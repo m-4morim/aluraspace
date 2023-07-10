@@ -54,3 +54,10 @@
     "id": "8",
     "tag": "Nebulosas"
   },
+{
+    "titulo": "Nome da Foto",
+    "creditos": "Alura Space",
+    "imagem": "/assets/imagens/galeria/foto-9.png",
+    "id": "9",
+    "tag": "Estrelas"
+  },
