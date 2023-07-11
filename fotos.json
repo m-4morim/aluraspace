@@ -61,3 +61,10 @@
     "id": "9",
     "tag": "Estrelas"
   },
+{
+    "titulo": "Nome da Foto",
+    "creditos": "Alura Space",
+    "imagem": "/assets/imagens/galeria/foto-10.png",
+    "id": "10",
+    "tag": "Estrelas"
+  }
