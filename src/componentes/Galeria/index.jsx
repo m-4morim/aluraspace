@@ -11,7 +11,13 @@ export default function Galeria() {
       <ul className={styles.galeria__lista}>
         {fotos.map((foto)=>{
           return(
-            
+            <li key={foto.id} className={styles.galeria__card}>
+              <img
+                className={styles.galeria__imagem}
+                src={foto.imagem}
+                alt={foto.titulo}
+              />
+            </li>
           )
         })}
       </ul>
