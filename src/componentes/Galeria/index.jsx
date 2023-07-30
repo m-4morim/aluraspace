@@ -17,6 +17,10 @@ export default function Galeria() {
                 src={foto.imagem}
                 alt={foto.titulo}
               />
+              <p className={styles.galeria__descricao}>{foto.titulo}</p>
+              <div>
+                <p>{foto.creditos}</p>
+              </div>
             </li>
           )
         })}
