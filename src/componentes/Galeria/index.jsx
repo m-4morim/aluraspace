@@ -20,9 +20,13 @@ export default function Galeria() {
               <p className={styles.galeria__descricao}>{foto.titulo}</p>
               <div>
                 <p>{foto.creditos}</p>
+                <span>
+                  <img src="" alt="ícone coração de curtir" />
+                  <img src="" alt="ícone de abrir modal" />
+                </span>
               </div>
             </li>
-          )
+          );
         })}
       </ul>
     </section>
