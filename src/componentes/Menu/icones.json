@@ -4,3 +4,9 @@
     "link": "Inicío",
     "id": 1
   },
+  {
+    "path": "/assets/imagens/icones/mais-vistas-inativo.png",
+    "alt": "ícone de um olho",
+    "link": "Mais vistas",
+    "id": 2
+  },
