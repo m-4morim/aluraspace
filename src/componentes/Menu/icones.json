@@ -1,13 +1,12 @@
-{
-    "path": "/assets/imagens/icones/home-ativo.png",
-    "alt": "Ícone de uma casa",
-    "link": "Inicío",
+[
+  {
+    "path": "/assets/imagens/populares/foto-1.png",
+    "alt": "galáxia",
     "id": 1
   },
   {
-    "path": "/assets/imagens/icones/mais-vistas-inativo.png",
-    "alt": "ícone de um olho",
-    "link": "Mais vistas",
+    "path": "/assets/imagens/populares/foto-2.png",
+    "alt": "lua",
     "id": 2
   },
   {
@@ -25,3 +24,4 @@
     "alt": "meteoro",
     "id": 5
   }
+]
