@@ -40,5 +40,9 @@
     position: relative;
     z-index: 0;
     cursor: pointer;
+
+    &:hover {
+      border-radius: 10px;
+      background: linear-gradient(to right, $rosa, $roxo) border-box;
+    }
   }
-}
