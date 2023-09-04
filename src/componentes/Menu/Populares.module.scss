@@ -44,5 +44,7 @@
     &:hover {
       border-radius: 10px;
       background: linear-gradient(to right, $rosa, $roxo) border-box;
+      color: $azul-escuro;
+      transition: 0.1s;
     }
   }
