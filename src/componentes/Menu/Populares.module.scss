@@ -61,5 +61,7 @@
       -webkit-mask-composite: xor;
       mask-composite: exclude;
       background: linear-gradient(to right, $rosa, $roxo) border-box;
+      color: $azul-escuro;
+      transition: 0.1s;
     }
   }
