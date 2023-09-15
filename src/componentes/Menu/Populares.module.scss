@@ -10,10 +10,11 @@
   font-family: $fonte-normal;
   font-size: 16px;
 
-  h2 {
-    margin-top: 5.3rem;
+  img {
+      width: 150px;
+      height: 100px;
   }
-
+  
   &__imagens {
     display: flex;
     flex-direction: column;
@@ -21,11 +22,6 @@
     height: 77%;
     padding: 0;
     list-style: none;
-  }
-
-  img {
-    width: 150px;
-    height: 100px;
   }
 
   button {
