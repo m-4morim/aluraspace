@@ -31,6 +31,8 @@
       color: $azul-escuro;
       transition: 0.1s;
       margin-top: 1.5rem;
+      font-size: 16px;
+      width: 100%;
       background: transparent;
       cursor: pointer;
       background: linear-gradient(to right, $rosa, $roxo) border-box;
@@ -44,8 +46,6 @@
     list-style: none;
     border: none;
     position: absolute;
-    font-size: 16px;
-    width: 100%;
 
     &::before {
       content: "";
