@@ -49,6 +49,8 @@
     border: none;
 
     &::before {
+      color: $cor-do-texto;
+      font-family: $fonte-normal;
       content: "";
       position: absolute;
       inset: 0;
