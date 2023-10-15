@@ -42,8 +42,9 @@
     margin-top: 1.5rem;
     height: 77%;
     padding: 12px 16px;
-    border-radius: 10px;
-    border: none;
+    list-style: none;
+    z-index: -1;
+    border: 2px solid transparent;
 
     &::before {
       color: $cor-do-texto;
@@ -54,9 +55,6 @@
       inset: 0;
       position: absolute;
       inset: 0;
-      list-style: none;
-      z-index: -1;
-      border: 2px solid transparent;
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       -webkit-mask: linear-gradient(#fff 0 0) padding-box,
         linear-gradient(#fff 0 0);
