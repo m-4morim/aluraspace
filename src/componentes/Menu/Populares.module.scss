@@ -11,6 +11,9 @@
       width: 150px;
       height: 100px;
       transition: 0.1s;
+      position: absolute;
+      inset: 0;
+      z-index: -1;
       margin-top: 1.5rem;
       justify-content: flex-start;
       align-items: center;
@@ -45,9 +48,6 @@
     list-style: none;
     padding: 12px 16px;
     color: $azul-escuro;
-    position: absolute;
-    inset: 0;
-    z-index: -1;
     border: 2px solid transparent;
 
     &::before {
