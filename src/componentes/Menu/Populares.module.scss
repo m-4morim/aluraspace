@@ -44,9 +44,6 @@
     content: "";
     padding: 0;
     font-size: 16px;
-    position: absolute;
-    height: 77%;
-    transition: 0.1s;
     list-style: none;
     padding: 12px 16px;
     color: $azul-escuro;
@@ -56,6 +53,9 @@
       color: $cor-do-texto;
       font-family: $fonte-normal;
       content: "";
+      position: absolute;
+      height: 77%;
+      transition: 0.1s;
       inset: 0;
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       -webkit-mask: linear-gradient(#fff 0 0) padding-box,
