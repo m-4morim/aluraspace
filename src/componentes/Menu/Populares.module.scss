@@ -12,8 +12,6 @@
       height: 100px;
       transition: 0.1s;
       position: absolute;
-      inset: 0;
-      z-index: -1;
       margin-top: 1.5rem;
       justify-content: flex-start;
       align-items: center;
@@ -53,6 +51,8 @@
       color: $cor-do-texto;
       font-family: $fonte-normal;
       content: "";
+      inset: 0;
+      z-index: -1;
       position: absolute;
       height: 77%;
       transition: 0.1s;
