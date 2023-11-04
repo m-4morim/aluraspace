@@ -30,9 +30,6 @@
 
   &:hover {
       background: linear-gradient(to right, $rosa, $roxo) border-box;
-      color: $azul-escuro;
-      width: 100%;
-      inset: 0;
       z-index: -1;
       height: 77%;
       transition: 0.1s;
@@ -57,6 +54,9 @@
 
     &::before {
       color: $cor-do-texto;
+      color: $azul-escuro;
+      width: 100%;
+      inset: 0;
       font-family: $fonte-normal;
       content: "";
       inset: 0;
