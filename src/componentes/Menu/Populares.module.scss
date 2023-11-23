@@ -31,6 +31,9 @@
   &__imagens {
     display: flex;
     flex-direction: column;
+    color: $roxo;
+    position: absolute;
+    flex-direction: column;
     justify-content: space-between;
     z-index: 0;
   }
