@@ -51,6 +51,9 @@
       align-items: center;
       height: 800px;
       list-style: none;
+      flex-direction: column;
+      color: $roxo;
+      position: absolute;
       color: $azul-escuro;
       width: 100%;
       background: transparent;
