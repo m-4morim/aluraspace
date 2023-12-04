@@ -53,6 +53,9 @@
       color: $roxo;
       position: absolute;
       color: $azul-escuro;
+      z-index: -1;
+      flex-direction: column;
+      color: $roxo;
       width: 100%;
       background: transparent;
       cursor: pointer;
