@@ -35,6 +35,9 @@
     color: $roxo;
     position: absolute;
     inset: 0;
+    transition: 0.1s;
+    z-index: -1;
+    align-items: center;
     z-index: -1;
     transition: 0.1s;
     flex-direction: column;
