@@ -90,6 +90,9 @@
       color: $azul-escuro;
       font-family: $fonte-normal;
       content: "";
+      position: absolute;
+      inset: 0;
+      transition: 0.1s;
       inset: 0;
       z-index: -1;
       inset: 0;
