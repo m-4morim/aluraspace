@@ -40,6 +40,9 @@
     align-items: center;
     z-index: -1;
     transition: 0.1s;
+    position: absolute;
+    inset: 0;
+    transition: 0.1s;
     flex-direction: column;
     justify-content: space-between;
     z-index: 0;
