@@ -38,10 +38,11 @@
     transition: 0.1s;
     z-index: -1;
     align-items: center;
-    z-index: -1;
     transition: 0.1s;
     position: absolute;
     inset: 0;
+    font-family: $fonte-normal;
+    font-size: 16px;
     transition: 0.1s;
     flex-direction: column;
     justify-content: space-between;
