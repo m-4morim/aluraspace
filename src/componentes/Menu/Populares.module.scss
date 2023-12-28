@@ -60,8 +60,8 @@
       font-size: 16px;
       position: absolute;
       inset: 0;
-      transition: 0.1s;
       flex-direction: column;
+      justify-content: space-between;
       color: $roxo;
       cursor: pointer;
       background: linear-gradient(to right, $rosa, $roxo) border-box;
