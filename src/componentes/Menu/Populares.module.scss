@@ -62,8 +62,9 @@
       font-family: $fonte-normal;
       font-size: 16px;
       position: absolute;
-      inset: 0;
       flex-direction: column;
+      color: $roxo;
+      inset: 0;
       justify-content: space-between;
       color: $roxo;
       cursor: pointer;
