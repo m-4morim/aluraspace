@@ -96,6 +96,7 @@
       inset: 0;
       z-index: -1;
       transition: 0.1s;
+      background: linear-gradient(to right, $rosa, $roxo) border-box;
       font-family: $fonte-normal;
       transition: 0.1s;
       align-items: center;
