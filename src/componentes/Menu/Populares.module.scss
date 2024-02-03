@@ -58,6 +58,8 @@
       position: absolute;
       flex-direction: column;
       color: $roxo;
+      transition: 0.1s;
+      content: "";
       inset: 0;
       justify-content: space-between;
       color: $roxo;
