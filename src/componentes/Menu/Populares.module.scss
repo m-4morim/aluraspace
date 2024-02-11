@@ -59,6 +59,7 @@
       color: $roxo;
       content: "";
       inset: 0;
+      transition: 0.1s;
       justify-content: space-between;
       cursor: pointer;
       background: linear-gradient(to right, $rosa, $roxo) border-box;
