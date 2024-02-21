@@ -68,6 +68,7 @@
 
   button {
     color: $cor-do-texto;
+    background: linear-gradient(to right, $rosa, $roxo) border-box;
     font-family: $fonte-normal;
     content: "";
     height: 77%;
