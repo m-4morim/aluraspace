@@ -101,6 +101,8 @@
         linear-gradient(#fff 0 0);
       -webkit-mask-composite: xor;
       mask-composite: exclude;
+      margin-top: 1.5rem;
+      height: 77%;
       background: linear-gradient(to right, $rosa, $roxo) border-box;
     }
   }
