@@ -84,8 +84,6 @@
     border: 2px solid transparent;
 
     &::before {
-      transition: 0.1s;
-      align-items: center;
       color: $cor-do-texto;
       content: "";
       background: linear-gradient(to right, $rosa, $roxo) border-box;
