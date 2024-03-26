@@ -28,6 +28,9 @@
       height: 77%;
       justify-content: flex-start;
       align-items: center;
+      width: 150px;
+      transition: 0.1s;
+      content: "";
   }
   
   &__imagens {
