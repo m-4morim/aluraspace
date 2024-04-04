@@ -29,6 +29,8 @@
       justify-content: flex-start;
       align-items: center;
       width: 150px;
+      flex-direction: column;
+      color: $roxo;
       transition: 0.1s;
       content: "";
   }
