@@ -67,8 +67,9 @@
       flex-direction: column;
       color: $roxo;
       content: "";
+      justify-content: flex-start;
+      align-items: center;
       inset: 0;
-      justify-content: space-between;
       cursor: pointer;
     }
 
