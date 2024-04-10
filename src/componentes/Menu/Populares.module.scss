@@ -31,6 +31,8 @@
       width: 150px;
       flex-direction: column;
       color: $roxo;
+      display: flex;
+      padding: 0;
       transition: 0.1s;
       content: "";
   }
