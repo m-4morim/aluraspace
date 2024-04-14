@@ -117,6 +117,8 @@
       font-family: $fonte-normal;
       background: linear-gradient(to right, $rosa, $roxo) border-box;
       font-size: 16px;
+      transition: 0.1s;
+      content: "";
       margin-top: 1.5rem;
       height: 77%;
     }
