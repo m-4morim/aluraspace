@@ -28,9 +28,10 @@
       position: absolute;
       margin-top: 1.5rem;
       height: 77%;
+      width: 150px;
+      transition: 0.1s;
       justify-content: flex-start;
       align-items: center;
-      width: 150px;
       flex-direction: column;
       color: $roxo;
       display: flex;
