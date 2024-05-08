@@ -84,6 +84,7 @@
     color: $cor-do-texto;
     background: linear-gradient(to right, $rosa, $roxo) border-box;
     height: 77%;
+    border: 2px solid transparent;
     padding: 0;
     z-index: -1;
     justify-content: space-between;
