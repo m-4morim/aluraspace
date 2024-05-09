@@ -2,6 +2,7 @@
 
 .populares {
   display: flex;
+  background: linear-gradient(to right, $rosa, $azul-claro) border-box;
   padding: 0;
   inset: 0;
   z-index: -1;
