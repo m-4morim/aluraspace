@@ -105,6 +105,7 @@
 
     &::before {
       color: $cor-do-texto;
+      background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       width: 100%;
       border: 2px solid transparent;
       inset: 0;
