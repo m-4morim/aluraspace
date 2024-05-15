@@ -83,6 +83,8 @@
 
   button {
     color: $cor-do-texto;
+    position: absolute;
+    margin-top: 1.5rem;
     background: linear-gradient(to right, $rosa, $roxo) border-box;
     height: 77%;
     border: 2px solid transparent;
