@@ -108,7 +108,6 @@
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
     position: absolute;
     content: "";
-    border: 2px solid transparent;
 
     &::before {
       color: $cor-do-texto;
