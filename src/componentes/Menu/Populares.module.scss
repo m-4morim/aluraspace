@@ -65,6 +65,8 @@
     position: absolute;
     font-family: $fonte-normal;
     z-index: -1;
+    padding: 0;
+    inset: 0;
     content: "";
   }
 
