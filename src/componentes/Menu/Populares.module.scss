@@ -29,6 +29,9 @@
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       height: 77%;
       width: 150px;
+      flex-direction: column;
+      color: $roxo;
+      position: absolute;
       transition: 0.1s;
       justify-content: flex-start;
       align-items: center;
