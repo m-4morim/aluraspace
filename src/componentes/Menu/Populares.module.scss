@@ -112,10 +112,11 @@
       color: $cor-do-texto;
       width: 100%;
       border: 2px solid transparent;
-      inset: 0;
+      inset: 0;flex-direction: column;
+      color: $roxo;
+      position: absolute;
       align-items: center;
       z-index: -1;
-      position: absolute;
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       -webkit-mask: linear-gradient(#fff 0 0) padding-box,
         linear-gradient(#fff 0 0);
