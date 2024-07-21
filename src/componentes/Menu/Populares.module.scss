@@ -63,6 +63,8 @@
     font-family: $fonte-normal;
     z-index: -1;
     color: $roxo;
+    transition: 0.1s;
+    justify-content: flex-start;
     padding: 0;
     content: "";
   }
