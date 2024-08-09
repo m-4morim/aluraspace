@@ -49,10 +49,11 @@
     margin-top: 1.5rem;
     padding: 0;
     height: 77%;
+    transition: 0.1s;
+    align-items: center;
     z-index: -1;
     justify-content: flex-start;
     font-family: $fonte-normal;
-    z-index: -1;
     color: $roxo;
     position: absolute;
     padding: 0;
