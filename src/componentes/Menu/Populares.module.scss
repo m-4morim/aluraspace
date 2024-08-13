@@ -38,10 +38,11 @@
   
   &__imagens {
     display: flex;
+    position: absolute;
+    transition: 0.1s;
     color: $roxo;
     flex-direction: column;
     inset: 0;
-    transition: 0.1s;
     align-items: center;
     font-size: 16px;
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
