@@ -39,6 +39,7 @@
   &__imagens {
     display: flex;
     position: absolute;
+    font-family: $fonte-normal;
     transition: 0.1s;
     color: $roxo;
     flex-direction: column;
