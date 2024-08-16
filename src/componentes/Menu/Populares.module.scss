@@ -61,6 +61,7 @@
 
   &:hover {
       z-index: -1;
+      background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       color: $roxo;
       content: "";
       transition: 0.1s;
