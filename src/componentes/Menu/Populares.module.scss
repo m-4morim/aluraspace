@@ -40,6 +40,8 @@
     position: absolute;
     font-family: $fonte-normal;
     transition: 0.1s;
+    z-index: -1;
+    flex-direction: column;
     color: $roxo;
     inset: 0;
     align-items: center;
