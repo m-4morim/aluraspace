@@ -107,7 +107,6 @@
       position: absolute;
       align-items: center;
       z-index: -1;
-      background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       -webkit-mask: linear-gradient(#fff 0 0) padding-box,
         linear-gradient(#fff 0 0);
       -webkit-mask-composite: xor;
