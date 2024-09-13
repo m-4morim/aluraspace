@@ -95,6 +95,7 @@
     padding: 12px 16px;
     font-size: 16px;
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
+    mask-composite: exclude;
     content: "";
 
     &::before {
