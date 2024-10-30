@@ -39,6 +39,8 @@
     font-family: $fonte-normal;
     transition: 0.1s;
     color: $roxo;
+    height: 77%;
+    content: "";
     inset: 0;
     font-size: 16px;
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
