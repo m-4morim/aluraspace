@@ -42,8 +42,9 @@
     content: "";
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
     padding: 0;
-    z-index: -1;
     inset: 0;
+    z-index: -1;
+    flex-direction: column;
     height: 77%;
     justify-content: flex-start;
     color: $roxo;
