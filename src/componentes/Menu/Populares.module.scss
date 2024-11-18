@@ -21,6 +21,7 @@
       content: "";
       color: $roxo;
       border: 2px solid transparent;
+      flex-direction: column;
       font-family: $fonte-normal;
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       z-index: -1;
