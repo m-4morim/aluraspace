@@ -74,7 +74,6 @@
       font-family: $fonte-normal;
       inset: 0;flex-direction: column;
       color: $roxo;
-      z-index: -1;
       -webkit-mask: linear-gradient(#fff 0 0) padding-box,
         linear-gradient(#fff 0 0);
       -webkit-mask-composite: xor;
