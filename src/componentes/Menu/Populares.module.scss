@@ -57,8 +57,10 @@
     border: 2px solid transparent;
     mask-composite: exclude;
     justify-content: space-between;
-    justify-content: flex-start;
     -webkit-mask-composite: xor;
+    inset: 0;
+    z-index: -1;
+    flex-direction: column;
     position: absolute;
     font-family: $fonte-normal;
     margin-top: 1.5rem;
