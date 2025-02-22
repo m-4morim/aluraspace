@@ -45,8 +45,10 @@
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       inset: 0;
       align-items: center;
-      color: $cor-do-texto;
       width: 100%;
+      color: $roxo;
+      padding: 0;
+      inset: 0;
       cursor: pointer;
     }
 
