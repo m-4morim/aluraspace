@@ -65,7 +65,6 @@
     content: "";
 
     &::before {
-      color: $cor-do-texto;
       font-family: $fonte-normal;
       inset: 0;flex-direction: column;
       -webkit-mask: linear-gradient(#fff 0 0) padding-box,
