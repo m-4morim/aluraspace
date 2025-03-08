@@ -74,6 +74,10 @@
       border: 2px solid transparent;
       justify-content: flex-start;
       -webkit-mask-composite: xor;
+      color: $cor-do-texto;
+      margin-top: 1.5rem;
+      border: 2px solid transparent;
+      mask-composite: exclude;
       margin-top: 1.5rem;
       height: 77%;
     }
