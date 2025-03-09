@@ -57,6 +57,9 @@
     mask-composite: exclude;
     justify-content: space-between;
     -webkit-mask-composite: xor;
+    z-index: -1;
+    flex-direction: column;
+    color: $roxo;
     font-family: $fonte-normal;
     border: 2px solid transparent;
     font-size: 16px;
