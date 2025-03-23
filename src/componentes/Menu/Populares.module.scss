@@ -30,6 +30,8 @@
     font-family: $fonte-normal;
     transition: 0.1s;
     color: $roxo;
+    inset: 0;
+    flex-direction: column;
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
     z-index: -1;
     justify-content: flex-start;
