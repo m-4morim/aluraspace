@@ -51,6 +51,8 @@
   button {
     color: $cor-do-texto;
     margin-top: 1.5rem;
+    font-family: $fonte-normal;
+    transition: 0.1s;
     border: 2px solid transparent;
     mask-composite: exclude;
     justify-content: space-between;
