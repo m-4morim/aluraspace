@@ -52,6 +52,8 @@
   button {
     color: $cor-do-texto;
     font-family: $fonte-normal;
+    background: linear-gradient(to right, $rosa, $azul-claro) border-box;
+    inset: 0;
     transition: 0.1s;
     border: 2px solid transparent;
     mask-composite: exclude;
