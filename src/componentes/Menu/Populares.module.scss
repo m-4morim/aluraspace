@@ -79,6 +79,8 @@
       color: $cor-do-texto;
       border: 2px solid transparent;
       mask-composite: exclude;
+      background: linear-gradient(to right, $rosa, $azul-claro) border-box;
+      inset: 0;
     }
   }
 }
