@@ -73,6 +73,8 @@
       mask-composite: exclude;
       background: linear-gradient(to right, $rosa, $roxo) border-box;
       border: 2px solid transparent;
+      flex-direction: column;
+      font-family: $fonte-normal;
       justify-content: flex-start;
       -webkit-mask-composite: xor;
       color: $cor-do-texto;
