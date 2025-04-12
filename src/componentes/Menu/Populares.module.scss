@@ -67,6 +67,7 @@
     &::before {
       font-family: $fonte-normal;
       inset: 0;flex-direction: column;
+      background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       -webkit-mask: linear-gradient(#fff 0 0) padding-box,
         linear-gradient(#fff 0 0);
       -webkit-mask-composite: xor;
