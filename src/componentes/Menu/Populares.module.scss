@@ -28,7 +28,6 @@
   &__imagens {
     display: flex;
     font-family: $fonte-normal;
-    transition: 0.1s;
     color: $roxo;
     flex-direction: column;
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
