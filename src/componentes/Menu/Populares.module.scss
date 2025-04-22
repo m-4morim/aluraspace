@@ -51,7 +51,6 @@
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
     transition: 0.1s;
     border: 2px solid transparent;
-    mask-composite: exclude;
     flex-direction: column;
     justify-content: space-between;
     -webkit-mask-composite: xor;
