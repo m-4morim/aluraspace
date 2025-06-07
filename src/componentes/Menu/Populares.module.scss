@@ -78,7 +78,6 @@
       font-family: $fonte-normal;
       justify-content: flex-start;
       -webkit-mask-composite: xor;
-      color: $cor-do-texto;
       mask-composite: exclude;
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
     }
