@@ -58,6 +58,8 @@
     linear-gradient(#fff 0 0);
       -webkit-mask-composite: xor;
     flex-direction: column;
+    font-family: $fonte-normal;
+    color: $roxo;
     justify-content: space-between;
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
     -webkit-mask-composite: xor;
