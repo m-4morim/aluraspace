@@ -30,6 +30,8 @@
   &__imagens {
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
     display: flex;
+    z-index: -1;
+    flex-direction: column;
     font-family: $fonte-normal;
     color: $roxo;
     font-size: 16px;
