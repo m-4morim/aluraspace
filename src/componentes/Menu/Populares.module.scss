@@ -39,6 +39,7 @@
 
   &:hover {
       font-family: $fonte-normal;
+      color: $cor-do-texto;
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       align-items: center;
       z-index: -1;
