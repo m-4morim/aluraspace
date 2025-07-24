@@ -41,6 +41,7 @@
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       align-items: center;
       z-index: -1;
+      flex-direction: column;
       color: $roxo;
     }
 
