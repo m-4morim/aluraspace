@@ -39,6 +39,7 @@
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       align-items: center;
       z-index: -1;
+      -webkit-mask-composite: xor;
       flex-direction: column;
     }
 
