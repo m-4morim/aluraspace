@@ -57,7 +57,6 @@
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
 
     &::before {
-      inset: 0;flex-direction: column;
       font-family: $fonte-normal;
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       -webkit-mask: linear-gradient(#fff 0 0) padding-box,
