@@ -31,6 +31,8 @@
 
   &:hover {
       font-family: $fonte-normal;
+      flex-direction: column;
+      color: $roxo;
       color: $cor-do-texto;
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       align-items: center;
