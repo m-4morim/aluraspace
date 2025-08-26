@@ -53,6 +53,7 @@
     color: $roxo;
     border: 2px solid transparent;
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
+      -webkit-mask-composite: xor;
 
     &::before {
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
