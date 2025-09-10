@@ -23,6 +23,7 @@
   
   &__imagens {
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
+      -webkit-mask-composite: xor;
     display: flex;
     font-family: $fonte-normal;
     border: 2px solid transparent;
