@@ -76,6 +76,7 @@
       z-index: -1;
       flex-direction: column;
       -webkit-mask-composite: xor;
+      width: 150px;
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
     }
   }
