@@ -27,6 +27,7 @@
     flex-direction: column;
     display: flex;
       linear-gradient(#fff 0 0);
+    background: linear-gradient(to right, $rosa, $azul-claro) border-box;
     justify-content: flex-start;
   }
 
