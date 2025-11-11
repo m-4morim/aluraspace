@@ -10,7 +10,6 @@
   img {
       font-family: $fonte-normal;
       border: 2px solid transparent;
-      flex-direction: column;
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       color: $roxo;
       transition: 0.1s;
