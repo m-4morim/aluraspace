@@ -57,6 +57,7 @@
       background: linear-gradient(to right, $rosa, $roxo) border-box;
       border: 2px solid transparent;
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
+        -webkit-mask-composite: xor;
       font-family: $fonte-normal;
       justify-content: flex-start;
       flex-direction: column;
