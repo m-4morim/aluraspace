@@ -45,6 +45,7 @@
       -webkit-mask-composite: xor;
     justify-content: space-between;
     flex-direction: column;
+    display: flex;
     font-family: $fonte-normal;
     color: $roxo;
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
