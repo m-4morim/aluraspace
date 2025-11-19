@@ -50,6 +50,7 @@
     color: $roxo;
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       -webkit-mask-composite: xor;
+    flex-direction: column;
 
     &::before {
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
