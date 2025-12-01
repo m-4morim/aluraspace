@@ -44,6 +44,7 @@
     border: 2px solid transparent;
     font-family: $fonte-normal;
     linear-gradient(#fff 0 0);
+      -webkit-mask-composite: xor;
     justify-content: space-between;
     display: flex;
     font-family: $fonte-normal;
