@@ -33,6 +33,7 @@
       color: $cor-do-texto;
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
         -webkit-mask-composite: xor;
+      transition: 0.1s;
       flex-direction: column;
       font-family: $fonte-normal;
       color: $roxo;
