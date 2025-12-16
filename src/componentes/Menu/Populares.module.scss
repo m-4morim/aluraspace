@@ -64,6 +64,7 @@
       border: 2px solid transparent;
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
         -webkit-mask-composite: xor;
+      transition: 0.1s;
       justify-content: flex-start;
       flex-direction: column;
       border: 2px solid transparent;
