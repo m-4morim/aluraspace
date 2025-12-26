@@ -52,7 +52,6 @@
     transition: 0.1s;
     font-family: $fonte-normal;
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
-      -webkit-mask-composite: xor;
     flex-direction: column;
 
     &::before {
