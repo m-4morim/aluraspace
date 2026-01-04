@@ -23,6 +23,7 @@
       linear-gradient(#fff 0 0);
     transition: 0.1s;
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
+      -webkit-mask-composite: xor;
     color: $roxo;
     justify-content: flex-start;
   }
