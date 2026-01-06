@@ -19,6 +19,7 @@
     background: linear-gradient(to right, $rosa, $azul-claro) border-box;
       -webkit-mask-composite: xor;
     font-family: $fonte-normal;
+    flex-direction: column;
     border: 2px solid transparent;
       linear-gradient(#fff 0 0);
     transition: 0.1s;
