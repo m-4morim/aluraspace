@@ -11,6 +11,7 @@
       font-family: $fonte-normal;
       border: 2px solid transparent;
       background: linear-gradient(to right, $rosa, $azul-claro) border-box;
+      justify-content: flex-start;
       color: $roxo;
       flex-direction: column;
   }
